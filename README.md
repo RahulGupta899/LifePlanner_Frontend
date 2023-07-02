@@ -5,6 +5,11 @@
 git clone https://github.com/RahulGupta899/LifePlanner_Frontend
 ```
 
+## Change directory
+```bash
+cd LifePlanner_Frontend
+```
+
 ## Install Packages
 ```bash
 npm install
